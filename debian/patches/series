@@ -4,3 +4,5 @@
 0004-do-not-clean-manpage.patch
 0005-Drop-libdir-and-static-linking-information-from-xslt.patch
 CVE-2021-30560.patch
+CVE-2024-55549.patch
+CVE-2025-24855.patch
