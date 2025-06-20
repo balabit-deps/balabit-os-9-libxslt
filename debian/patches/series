@@ -1,8 +1,13 @@
 0001-fix-autoconf-automake.patch
-0002-Make-generate-id-deterministic.patch
+#0002-Make-generate-id-deterministic.patch
 0003-remove-plugin-in-xslt-config.patch
 0004-do-not-clean-manpage.patch
 0005-Drop-libdir-and-static-linking-information-from-xslt.patch
 CVE-2021-30560.patch
 CVE-2024-55549.patch
 CVE-2025-24855.patch
+CVE-2023-40403-1.patch
+CVE-2023-40403-2.patch
+CVE-2023-40403-3.patch
+CVE-2023-40403-4.patch
+CVE-2023-40403-5.patch
