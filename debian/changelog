@@ -1,3 +1,13 @@
+libxslt (1.1.34-4ubuntu0.22.04.5) jammy-security; urgency=medium
+
+  * SECURITY UPDATE: Denial of service in psvi memory field.
+    - debian/patches/CVE-2025-7424-*.patch: Change logic of tctxt->style->doc
+      in libxslt/functions.c, add libxslt/transformInternals.h, add new build
+      section to include file in libxslt/Makefile.am.
+    - CVE-2025-7424
+
+ -- Hlib Korzhynskyy <hlib.korzhynskyy@canonical.com>  Tue, 06 Jan 2026 13:03:17 -0330
+
 libxslt (1.1.34-4ubuntu0.22.04.4) jammy-security; urgency=medium
 
   * SECURITY UPDATE: ASLR bypass due to exposure of sensitive information
